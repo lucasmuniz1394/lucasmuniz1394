@@ -22,13 +22,13 @@ Sou apaixonado por tecnologia e pela criação de soluções que conectem efici�
         src="https://custom-icon-badges.demolab.com/github/stars/lucasmuniz1394?color=FFD700&labelColor=DAA520&style=for-the-badge&logo=star&label=Estrelas&logoColor=white"
     />
   </a>
-  <a href="https://www.linkedin.com/in/lucas-muniz-barbosa/">
-    <img 
-        alt="LinkedIn" 
-        title="Meu perfil no LinkedIn" 
-        src="https://img.shields.io/badge/LinkedIn-Lucas%20Muniz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
+<a href="https://www.linkedin.com/in/lucas-muniz-barbosa/">
+  <img 
+      alt="LinkedIn" 
+      title="Meu perfil no LinkedIn" 
+      src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
+</a>
 </p>
 
 ---
