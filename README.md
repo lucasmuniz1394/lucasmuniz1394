@@ -8,25 +8,25 @@ Tenho experiência no desenvolvimento de aplicações web completas, com foco em
 Sou apaixonado por tecnologia e pela criação de soluções que conectem eficiência e boas práticas de código.
 
 <p align="left">
-  <a href="https://github.com/lucasmuniz1394">
+  <a href="https://github.com/lucasmuniz1394?tab=followers">
     <img 
-        alt="GitHub Followers" 
+        alt="Seguidores" 
         title="Me siga no GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/followers/lucasmuniz1394?color=555&labelColor=333&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        src="https://custom-icon-badges.demolab.com/github/followers/lucasmuniz1394?color=6A0DAD&labelColor=4B0082&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
     />
   </a>
   <a href="https://github.com/lucasmuniz1394?tab=repositories&sort=stargazers">
     <img 
-        alt="GitHub Stars" 
+        alt="Estrelas" 
         title="Total de estrelas no GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/stars/lucasmuniz1394?color=555&style=for-the-badge&labelColor=333&logo=star&label=Estrelas"
+        src="https://custom-icon-badges.demolab.com/github/stars/lucasmuniz1394?color=FFD700&labelColor=DAA520&style=for-the-badge&logo=star&label=Estrelas&logoColor=white"
     />
   </a>
   <a href="https://www.linkedin.com/in/lucas-muniz-barbosa/">
     <img 
         alt="LinkedIn" 
         title="Meu perfil no LinkedIn" 
-        src="https://img.shields.io/badge/LinkedIn-Lucas%20Muniz-blue?style=for-the-badge&logo=linkedin"
+        src="https://img.shields.io/badge/LinkedIn-Lucas%20Muniz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
 </p>
@@ -100,4 +100,3 @@ Sou apaixonado por tecnologia e pela criação de soluções que conectem efici�
     src="https://github-readme-stats.vercel.app/api?username=lucasmuniz1394&show_icons=true&theme=graywhite&include_all_commits=true&locale=pt-br" 
   />
 </p>
-
