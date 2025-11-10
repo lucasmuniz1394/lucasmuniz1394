@@ -1,13 +1,16 @@
 # 👨🏻‍💻 Lucas Muniz
 
-👋 Me chamo Lucas Muniz Barbosa, tenho 31 anos e sou natural do Rio de Janeiro.
-Sou Desenvolvedor Back-end, formado em Programação FullStack pelo SENAC e atualmente cursando Engenharia de Software na Estácio.
+👋 Me chamo **Lucas Muniz Barbosa**, tenho **31 anos** e sou natural do **Rio de Janeiro**.  
+Sou **Desenvolvedor Back-end**, formado em **Programação FullStack pelo SENAC** e atualmente cursando **Engenharia de Software na Estácio**.
 
-Tenho experiência no desenvolvimento de APIs e aplicações web utilizando Java com Spring Boot, aplicando boas práticas de arquitetura, versionamento e integração com bancos de dados relacionais.
+Tenho experiência no desenvolvimento de **APIs** e **aplicações web** utilizando **Java com Spring Boot**, aplicando boas práticas de **arquitetura**, **versionamento** e **integração com bancos de dados relacionais**.
 
-O curso FullStack me proporcionou uma visão completa do ciclo de desenvolvimento, mas meu foco profissional está no Back-end, onde posso unir lógica, performance e organização de código.
+O curso FullStack me proporcionou uma visão completa do ciclo de desenvolvimento, mas meu foco profissional está no **Back-end**, onde posso unir **lógica**, **performance** e **organização de código**.
 
-🚀 Busco uma oportunidade de estágio para continuar evoluindo como desenvolvedor, contribuindo com soluções sólidas e aprendendo com profissionais da área.
+🚀 Busco uma oportunidade de **estágio** para continuar evoluindo como desenvolvedor, contribuindo com **soluções sólidas** e aprendendo com profissionais da área.
+
+---
+
 <p align="left">
   <a href="https://github.com/lucasmuniz1394?tab=followers">
     <img 
@@ -23,13 +26,13 @@ O curso FullStack me proporcionou uma visão completa do ciclo de desenvolviment
         src="https://custom-icon-badges.demolab.com/github/stars/lucasmuniz1394?color=FFD700&labelColor=DAA520&style=for-the-badge&logo=star&label=Estrelas&logoColor=white"
     />
   </a>
-<a href="https://www.linkedin.com/in/lucas-muniz-barbosa/">
-  <img 
-      alt="LinkedIn" 
-      title="Meu perfil no LinkedIn" 
-      src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white"
-  />
-</a>
+  <a href="https://www.linkedin.com/in/lucas-muniz-barbosa/">
+    <img 
+        alt="LinkedIn" 
+        title="Meu perfil no LinkedIn" 
+        src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
 </p>
 
 ---
@@ -109,18 +112,18 @@ O curso FullStack me proporcionou uma visão completa do ciclo de desenvolviment
 ### 📊 Estatísticas
 
 <p>
- <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=lucasmuniz1394&show_icons=true&title_color=E9ECEF&text_color=C7D3ED&icon_color=FFD700&bg_color=1B263B&include_all_commits=true&locale=pt-br&custom_title=Estatísticas%20de%20Lucas%20Muniz" 
-  />
   <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      height="180" 
+      style="padding-right: 10px;" 
+      src="https://github-readme-stats.vercel.app/api?username=lucasmuniz1394&show_icons=true&title_color=E9ECEF&text_color=C7D3ED&icon_color=FFD700&bg_color=1B263B&include_all_commits=true&locale=pt-br&custom_title=Estatísticas%20de%20Lucas%20Muniz" 
   />
-
+  <img 
+      align="left" 
+      alt="Top Langs" 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmuniz1394&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 </p>
+
