@@ -1,115 +1,68 @@
-# 👨🏻‍💻 Lucas Muniz
+# 👨🏻‍💻 Lucas Muniz Barbosa
 
 👋 Me chamo **Lucas Muniz Barbosa**, tenho **31 anos** e sou natural do **Rio de Janeiro**.  
-Sou **Desenvolvedor Back-end**, formado em **Programação FullStack pelo SENAC** e atualmente cursando **Engenharia de Software na Estácio**.
+Sou **Desenvolvedor Back-end**, formado em **Programação FullStack pelo SENAC** e atualmente cursando **Engenharia de Software na Estácio**.  
 
-Tenho experiência no desenvolvimento de **APIs** e **aplicações web** utilizando **Java com Spring Boot**, aplicando boas práticas de **arquitetura**, **versionamento** e **integração com bancos de dados relacionais**.
+Tenho experiência no desenvolvimento de **APIs REST e aplicações web** utilizando **Java com Spring Boot**, aplicando **boas práticas de arquitetura**, **versionamento com Git**, e integração com **bancos de dados relacionais** — tudo em ambiente **Linux (Ubuntu)** e com **containers Docker**.  
 
-O curso FullStack me proporcionou uma visão completa do ciclo de desenvolvimento, mas meu foco profissional está no **Back-end**, onde posso unir **lógica**, **performance** e **organização de código**.
+O curso FullStack me deu uma visão completa do ciclo de desenvolvimento, mas meu foco atual está no **Back-end**, onde busco unir **lógica, performance e clareza no código**.  
 
-🚀 Busco uma oportunidade de **estágio** para continuar evoluindo como desenvolvedor, contribuindo com **soluções sólidas** e aprendendo com profissionais da área.
+🚀 Atualmente, estou em busca de uma **oportunidade de estágio em Back-end**, onde possa contribuir com projetos reais, aprender com profissionais da área e continuar evoluindo como desenvolvedor.
 
 ---
+## 🌐 Contatos e Redes
 
 <p align="left">
   <a href="https://github.com/lucasmuniz1394?tab=followers">
-    <img 
-        alt="Seguidores" 
-        title="Me siga no GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/followers/lucasmuniz1394?color=6A0DAD&labelColor=4B0082&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-  </a>
-  <a href="https://github.com/lucasmuniz1394?tab=repositories&sort=stargazers">
-    <img 
-        alt="Estrelas" 
-        title="Total de estrelas no GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/stars/lucasmuniz1394?color=FFD700&labelColor=DAA520&style=for-the-badge&logo=star&label=Estrelas&logoColor=white"
-    />
+    <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/lucas-muniz-barbosa/">
-    <img 
-        alt="LinkedIn" 
-        title="Meu perfil no LinkedIn" 
-        src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
+    <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:lucasmuniz1307@hotmail.com">
+    <img alt="Email" title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### ⚙️ Linguagens e Tecnologias
+## ⚙️ Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Spring Boot" 
-    title="Spring Boot" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-<img 
-    align="left" 
-    alt="TypeScript" 
-    title="TypeScript" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-<img 
-    align="left" 
-    alt="SQL Server" 
-    title="SQL Server" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="HTML5" 
-    title="HTML5" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-<img 
-    align="left" 
-    alt="CSS3" 
-    title="CSS3" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
+<img align="left" alt="Java" title="Java" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" alt="Spring Boot" title="Spring Boot" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+<img align="left" alt="Docker" title="Docker" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+<img align="left" alt="Linux" title="Linux" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+<img align="left" alt="MySQL" title="MySQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="TypeScript" title="TypeScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
 
 <br/>
 <br/>
 
 ---
 
-### 📊 Estatísticas
+## 🧩 Projetos Acadêmicos e Práticos
+
+### 🐾 **Plataforma AdoteAqui (2025 – em andamento)**
+Projeto pessoal desenvolvido em ambiente **Linux (Ubuntu)**, utilizando **Java com Spring Boot** e **banco de dados MySQL em container Docker**.  
+Implementa **CRUDs, autenticação e gerenciamento de adoções**, com **arquitetura em camadas (Controller, Service, Repository)**.  
+Configuração de ambiente via **Docker + WSL**, versionamento no **GitHub**, e testes de API com **Insomnia**.  
+📦 *Stack:* Java • Spring Boot • MySQL (Docker) • JPA/Hibernate • Linux (Ubuntu) • Git • Insomnia  
+📁 *Status:* Em desenvolvimento ativo
+
+---
+
+### 💰 **Calculadora de Investimentos (2025 – em desenvolvimento)**
+Projeto **em andamento** com **Java e Spring Boot**, voltado para simular **rendimentos financeiros e juros compostos**.  
+Permite calcular **aporte mensal**, **taxa de juros** e **tempo de investimento**, retornando o **resultado total acumulado**.  
+Aplicação prática de **regras de negócio**, **POO**, **camadas MVC** e **API REST**.  
+📦 *Stack:* Java • Spring Boot • JPA • Insomnia • Git
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <p>
   <img 
@@ -127,3 +80,8 @@ O curso FullStack me proporcionou uma visão completa do ciclo de desenvolviment
   />
 </p>
 
+<br clear="left"/>
+
+---
+
+⭐ **“Aprender, construir e evoluir — um commit de cada vez.”**
