@@ -1,12 +1,13 @@
 # 👨🏻‍💻 Lucas Muniz
 
-**`Desenvolvedor FullStack`**
+👋 Me chamo Lucas Muniz Barbosa, tenho 31 anos e sou natural do Rio de Janeiro.
+Sou Desenvolvedor Back-end, formado em Programação FullStack pelo SENAC e atualmente cursando Engenharia de Software na Estácio.
 
-Me chamo **Lucas Muniz Barbosa**, tenho **31 anos** e sou natural do **Rio de Janeiro**.  
-Sou formado em **Programação FullStack pelo SENAC** e atualmente curso **Engenharia de Software na Estácio**.  
-Tenho experiência no desenvolvimento de aplicações web completas, com foco em **back-end Java com Spring Boot** e **front-end moderno** utilizando JavaScript e TypeScript.  
-Sou apaixonado por tecnologia e pela criação de soluções que conectem eficiência e boas práticas de código.
+Tenho experiência no desenvolvimento de APIs e aplicações web utilizando Java com Spring Boot, aplicando boas práticas de arquitetura, versionamento e integração com bancos de dados relacionais.
 
+O curso FullStack me proporcionou uma visão completa do ciclo de desenvolvimento, mas meu foco profissional está no Back-end, onde posso unir lógica, performance e organização de código.
+
+🚀 Busco uma oportunidade de estágio para continuar evoluindo como desenvolvedor, contribuindo com soluções sólidas e aprendendo com profissionais da área.
 <p align="left">
   <a href="https://github.com/lucasmuniz1394?tab=followers">
     <img 
