@@ -115,4 +115,11 @@ Sou apaixonado por tecnologia e pela criação de soluções que conectem efici�
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=lucasmuniz1394&show_icons=true&title_color=E9ECEF&text_color=C7D3ED&icon_color=FFD700&bg_color=1B263B&include_all_commits=true&locale=pt-br&custom_title=Estatísticas%20de%20Lucas%20Muniz" 
   />
+  <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
